@@ -61,6 +61,7 @@ Example:
 | MongoDB | 7.0 | 8.0 | 8.1 |
 | PostgreSQL | 15 | 16 | 17 |
 | Keycloak | 25 | 26 | 27 |
+<img width="1354" height="914" alt="image" src="https://github.com/user-attachments/assets/27317049-cd29-40e1-ad95-3d2a129645cf" />
 
 > **Note:** Version numbers above are examples. Actual versions are maintained in this repository.
 
